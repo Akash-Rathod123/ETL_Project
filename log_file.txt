@@ -1,0 +1,16 @@
+2025-01-13 20:10:30.996900: Starting ETL pipeline
+2025-01-13 20:10:31.045925: Extracting from CSV file: C:\Users\DELL\Downloads\source_unzipped\source1.csv
+2025-01-13 20:10:31.113942: Extracting from JSON file: C:\Users\DELL\Downloads\source_unzipped\source1.json
+2025-01-13 20:14:31.501844: Starting ETL pipeline
+2025-01-13 20:14:31.529781: Extracting from CSV file: C:\Users\DELL\Downloads\source_unzipped\source1.csv
+2025-01-13 20:14:31.591372: Extracting from JSON file: C:\Users\DELL\Downloads\source_unzipped\source1.json
+2025-01-13 20:14:31.660706: Extracting from XML file: C:\Users\DELL\Downloads\source_unzipped\source1.xml
+2025-01-13 20:14:31.672878: Extracting from CSV file: C:\Users\DELL\Downloads\source_unzipped\source2.csv
+2025-01-13 20:14:31.692991: Extracting from JSON file: C:\Users\DELL\Downloads\source_unzipped\source2.json
+2025-01-13 20:14:31.712338: Extracting from XML file: C:\Users\DELL\Downloads\source_unzipped\source2.xml
+2025-01-13 20:14:31.721237: Extracting from CSV file: C:\Users\DELL\Downloads\source_unzipped\source3.csv
+2025-01-13 20:14:31.733583: Extracting from JSON file: C:\Users\DELL\Downloads\source_unzipped\source3.json
+2025-01-13 20:14:31.745648: Extracting from XML file: C:\Users\DELL\Downloads\source_unzipped\source3.xml
+2025-01-13 20:14:31.750914: Transforming data
+2025-01-13 20:14:31.751919: Loading data into CSV file
+2025-01-13 20:14:31.773442: ETL pipeline completed
